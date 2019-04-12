@@ -1,3 +1,10 @@
 body {
-    color: blue
+    color: "8cacd7";
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: "1a2e4a";
+}
+img {
+    width: 30%;
+    border: 2px;
 }
